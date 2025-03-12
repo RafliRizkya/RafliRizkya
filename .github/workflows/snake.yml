@@ -12,17 +12,20 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - uses: Platane/snk@v3  # Gunakan versi rilis (contoh)
+      - uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: RafliRizkya
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          svg_out_path: github-contribution-grid-snake.svg  # Tanpa dist/
 
-      - name: Check Output
-        run: ls -l dist/github-contribution-grid-snake.svg  # Periksa apakah file SVG ada
+      - name: Create dist directory
+        run: mkdir -p dist
+
+      - name: Move SVG to dist
+        run: mv github-contribution-grid-snake.svg dist/
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3 # Gunakan versi rilis
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
