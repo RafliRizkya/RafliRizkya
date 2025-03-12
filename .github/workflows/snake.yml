@@ -12,22 +12,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - uses: Platane/snk@v3
+      - uses: Platane/snk@v3.1.0  # Ganti dengan versi rilis tertentu (jika ada)
         id: snake-gif
         with:
           github_user_name: RafliRizkya
-          svg_out_path: github-contribution-grid-snake.svg  # Tanpa dist/
+          svg_out_path: snake.svg  # Coba snake.svg
 
-      - name: Create dist directory
-        run: mkdir -p dist
-
-      - name: Move SVG to dist
-        run: mv github-contribution-grid-snake.svg dist/
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Check Output
+        run: ls -l snake.svg  # Periksa apakah file SVG ada
