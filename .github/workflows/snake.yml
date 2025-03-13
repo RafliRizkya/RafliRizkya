@@ -6,28 +6,24 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
       
-      - name: Generate Snake
-        uses: Platane/snk@master
+      - uses: Platane/snk@v3
+        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-snake.svg
-          snake_color: 'blue'
-      
-      - name: Generate Snake Dark
-        uses: Platane/snk@master
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-snake-dark.svg
-          snake_color: 'blue'
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
           
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@v9
+      - name: Push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
+          commit_message: Update snake animation
           branch: main
-          message: 'Generate snake animation'
-          add: 'dist'
+          file_pattern: dist/*.svg
