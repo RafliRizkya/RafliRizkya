@@ -39,7 +39,8 @@ Comprehensive data analytics project using Python and visualization tools.
 [View Project](https://github.com/RafliRizkya/IBM-Data-Analyst-Capstone-Project)
 
 ## 📈 My Contribution Graph
-![Snake animation](https://github.com/RafliRizkya/RafliRizkya/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://github.com/RafliRizkya/RafliRizkya/blob/main/dist/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/RafliRizkya/RafliRizkya/blob/main/dist/github-snake-dark.svg#gh-dark-mode-only)
 
 ## 📫 Connect With Me
 Feel free to reach out for collaborations, job opportunities, or just to say hi!
