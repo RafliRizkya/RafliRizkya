@@ -1,22 +1,33 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */24 * * *" # Jalankan setiap 24 jam
+    - cron: "0 */12 * * *" # Runs every 12 hours
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v2
-
-      - uses: Platane/snk@v3.1.0  # Ganti dengan versi rilis tertentu (jika ada)
-        id: snake-gif
+      - uses: actions/checkout@v3
+      
+      - name: Generate Snake
+        uses: Platane/snk@master
         with:
-          github_user_name: RafliRizkya
-          svg_out_path: snake.svg  # Coba snake.svg
-
-      - name: Check Output
-        run: ls -l snake.svg  # Periksa apakah file SVG ada
+          github_user_name: ${{ github.repository_owner }}
+          svg_out_path: dist/github-snake.svg
+          snake_color: 'blue'
+      
+      - name: Generate Snake Dark
+        uses: Platane/snk@master
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          svg_out_path: dist/github-snake-dark.svg
+          snake_color: 'blue'
+          
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v9
+        with:
+          branch: main
+          message: 'Generate snake animation'
+          add: 'dist'
