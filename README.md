@@ -8,7 +8,7 @@
 Data Analytics enthusiast with experience in transforming raw data into insights. Based in Cimahi, Indonesia, I'm passionate about using data to tell stories and drive decisions.
 
 ## 📊 GitHub Stats
-![Rafli's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafliRizkya&show_icons=true&theme=tokyonight)
+![Rafli's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafliRizkya&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1800)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafliRizkya&layout=compact&theme=tokyonight&langs_count=10)
 
 ## 🛠️ Skills & Technologies
