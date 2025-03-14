@@ -38,10 +38,13 @@ Data analysis of supermarket sales with interactive visualizations built in Powe
 Comprehensive data analytics project using Python and visualization tools.
 [View Project](https://github.com/RafliRizkya/IBM-Data-Analyst-Capstone-Project)
 
-
 ### Analysis Spotify Indonesia Chart Song in 2020
 This project analyzes the Spotify Indonesia Chart Songs in 2020, identifying ranking patterns and trends in song popularity through data exploration and visualization.
 [View Project](https://github.com/RafliRizkya/Analysis-Spotify-Indonesia-Chart-Song-in-2020)
+
+### Game Sales Analysis
+Conducted SQL-based analysis on video game sales data to identify top publishers, platforms, and sales trends, providing insights into industry performance.
+[View Project](https://github.com/RafliRizkya/Game-Sales-SQL-Analysis)
 
 ## 📈 My Contribution Graph
 ![GitHub Snake Light](https://github.com/RafliRizkya/RafliRizkya/blob/main/dist/github-snake.svg#gh-light-mode-only)
