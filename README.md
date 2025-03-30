@@ -48,6 +48,10 @@ This project analyzes the Spotify Indonesia Chart Songs in 2020, identifying ran
 Conducted SQL-based analysis on video game sales data to identify top publishers, platforms, and sales trends, providing insights into industry performance.
 [View Project](https://github.com/RafliRizkya/Game-Sales-SQL-Analysis)
 
+### Identify the top 5 car brands with the highest sales
+Top 5 Brand Cars Analysis explores data to analyze the performance of the top five car brands based on various metrics. This repository includes data preprocessing, visualization, and insights to understand automotive market trends.
+[View Project](https://github.com/RafliRizkya/Top-5-Car-Brands-Sales-2014-2015-)
+
 ## 📈 My Contribution Graph
 ![GitHub Snake Light](https://github.com/RafliRizkya/RafliRizkya/blob/main/dist/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://github.com/RafliRizkya/RafliRizkya/blob/main/dist/github-snake-dark.svg#gh-dark-mode-only)
