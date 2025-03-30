@@ -28,27 +28,27 @@ Data Analytics enthusiast with experience in transforming raw data into insights
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ## 🚀 Featured Projects
-### COVID-19 Indonesia Dashboard
+### 1. COVID-19 Indonesia Dashboard
 A visualization of COVID-19 trends across Indonesian provinces with data transformation techniques to handle missing values.
 [View Project](https://github.com/RafliRizkya/Covid-19-Indonesia-Dashboard)
 
-### Supermarket Sales Dashboard
+### 2. Supermarket Sales Dashboard
 Data analysis of supermarket sales with interactive visualizations built in Power BI.
 [View Project](https://github.com/RafliRizkya/Supermarket-Sales-Dashboard)
 
-### IBM Data Analyst Capstone Project
+### 3. IBM Data Analyst Capstone Project
 Comprehensive data analytics project using Python and visualization tools.
 [View Project](https://github.com/RafliRizkya/IBM-Data-Analyst-Capstone-Project)
 
-### Analysis Spotify Indonesia Chart Song in 2020
+### 4. Analysis Spotify Indonesia Chart Song in 2020
 This project analyzes the Spotify Indonesia Chart Songs in 2020, identifying ranking patterns and trends in song popularity through data exploration and visualization.
 [View Project](https://github.com/RafliRizkya/Analysis-Spotify-Indonesia-Chart-Song-in-2020)
 
-### Game Sales Analysis
+### 5. Game Sales Analysis
 Conducted SQL-based analysis on video game sales data to identify top publishers, platforms, and sales trends, providing insights into industry performance.
 [View Project](https://github.com/RafliRizkya/Game-Sales-SQL-Analysis)
 
-### Identify the top 5 car brands with the highest sales
+### 6. Identify the top 5 car brands with the highest sales
 Top 5 Brand Cars Analysis explores data to analyze the performance of the top five car brands based on various metrics. This repository includes data preprocessing, visualization, and insights to understand automotive market trends.
 [View Project](https://github.com/RafliRizkya/Top-5-Car-Brands-Sales-2014-2015-)
 
