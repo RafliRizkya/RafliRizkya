@@ -27,30 +27,43 @@ Data Analytics enthusiast with experience in transforming raw data into insights
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-## 🚀 Featured Projects
-### 1. COVID-19 Indonesia Dashboard
-A visualization of COVID-19 trends across Indonesian provinces with data transformation techniques to handle missing values.
-[View Project](https://github.com/RafliRizkya/Covid-19-Indonesia-Dashboard)
+### Machine Learning & Statistical Analysis
+![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![StatsModels](https://img.shields.io/badge/StatsModels-4051B5?style=for-the-badge&logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![A/B Testing](https://img.shields.io/badge/A/B_Testing-0078D4?style=for-the-badge&logo=ab-testing&logoColor=white)
+![Supervised ML](https://img.shields.io/badge/Supervised_ML-00979D?style=for-the-badge&logo=python&logoColor=white)
+![Unsupervised ML](https://img.shields.io/badge/Unsupervised_ML-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 2. Supermarket Sales Dashboard
-Data analysis of supermarket sales with interactive visualizations built in Power BI.
-[View Project](https://github.com/RafliRizkya/Supermarket-Sales-Dashboard)
+## 🚀 Featured Projects
+
+### 1. Google Advanced Data Analytics
+This capstone project was completed as part of the Google Advanced Data Analytics course. It focuses on analyzing HR employee data to predict attrition using various supervised machine learning models, helping HR teams make data-driven decisions to improve employee retention and reduce turnover costs.
+[View Project](https://github.com/RafliRizkya/Google-Advanced-Data-Analytics-Capstone-Project)
+
+### 2. Identify the top 5 car brands with the highest sales
+Top 5 Brand Cars Analysis explores data to analyze the performance of the top five car brands based on various metrics. This repository includes data preprocessing, visualization, and insights to understand automotive market trends.
+[View Project](https://github.com/RafliRizkya/Top-5-Car-Brands-Sales-2014-2015-)
 
 ### 3. IBM Data Analyst Capstone Project
 Comprehensive data analytics project using Python and visualization tools.
 [View Project](https://github.com/RafliRizkya/IBM-Data-Analyst-Capstone-Project)
 
-### 4. Analysis Spotify Indonesia Chart Song in 2020
+### 4. COVID-19 Indonesia Dashboard
+A visualization of COVID-19 trends across Indonesian provinces with data transformation techniques to handle missing values.
+[View Project](https://github.com/RafliRizkya/Covid-19-Indonesia-Dashboard)
+
+### 5. Supermarket Sales Dashboard
+Data analysis of supermarket sales with interactive visualizations built in Power BI.
+[View Project](https://github.com/RafliRizkya/Supermarket-Sales-Dashboard)
+
+### 6. Analysis Spotify Indonesia Chart Song in 2020
 This project analyzes the Spotify Indonesia Chart Songs in 2020, identifying ranking patterns and trends in song popularity through data exploration and visualization.
 [View Project](https://github.com/RafliRizkya/Analysis-Spotify-Indonesia-Chart-Song-in-2020)
 
-### 5. Game Sales Analysis
+### 7. Game Sales Analysis
 Conducted SQL-based analysis on video game sales data to identify top publishers, platforms, and sales trends, providing insights into industry performance.
 [View Project](https://github.com/RafliRizkya/Game-Sales-SQL-Analysis)
-
-### 6. Identify the top 5 car brands with the highest sales
-Top 5 Brand Cars Analysis explores data to analyze the performance of the top five car brands based on various metrics. This repository includes data preprocessing, visualization, and insights to understand automotive market trends.
-[View Project](https://github.com/RafliRizkya/Top-5-Car-Brands-Sales-2014-2015-)
 
 ## 📈 My Contribution Graph
 ![GitHub Snake Light](https://github.com/RafliRizkya/RafliRizkya/blob/main/dist/github-snake.svg#gh-light-mode-only)
