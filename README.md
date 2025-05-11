@@ -37,31 +37,34 @@ Data Analytics enthusiast with experience in transforming raw data into insights
 
 ## 🚀 Featured Projects
 
-### 1. Google Advanced Data Analytics
+### Google Advanced Data Analytics
 This capstone project was completed as part of the Google Advanced Data Analytics course. It focuses on analyzing HR employee data to predict attrition using various supervised machine learning models, helping HR teams make data-driven decisions to improve employee retention and reduce turnover costs.
 [View Project](https://github.com/RafliRizkya/Google-Advanced-Data-Analytics-Capstone-Project)
 
-### 2. Identify the top 5 car brands with the highest sales
+### Social-Media-Trends-Engagement-Analysis
+This repository contains an exploratory data analysis and machine learning project focused on identifying patterns and key factors that influence **engagement rate** in social media content. The analysis combines clustering, feature importance extraction from supervised models, and actionable insights to improve content strategy.
+
+### Identify the top 5 car brands with the highest sales
 Top 5 Brand Cars Analysis explores data to analyze the performance of the top five car brands based on various metrics. This repository includes data preprocessing, visualization, and insights to understand automotive market trends.
 [View Project](https://github.com/RafliRizkya/Top-5-Car-Brands-Sales-2014-2015-)
 
-### 3. IBM Data Analyst Capstone Project
+### IBM Data Analyst Capstone Project
 Comprehensive data analytics project using Python and visualization tools.
 [View Project](https://github.com/RafliRizkya/IBM-Data-Analyst-Capstone-Project)
 
-### 4. COVID-19 Indonesia Dashboard
+### COVID-19 Indonesia Dashboard
 A visualization of COVID-19 trends across Indonesian provinces with data transformation techniques to handle missing values.
 [View Project](https://github.com/RafliRizkya/Covid-19-Indonesia-Dashboard)
 
-### 5. Supermarket Sales Dashboard
+### Supermarket Sales Dashboard
 Data analysis of supermarket sales with interactive visualizations built in Power BI.
 [View Project](https://github.com/RafliRizkya/Supermarket-Sales-Dashboard)
 
-### 6. Analysis Spotify Indonesia Chart Song in 2020
+### Analysis Spotify Indonesia Chart Song in 2020
 This project analyzes the Spotify Indonesia Chart Songs in 2020, identifying ranking patterns and trends in song popularity through data exploration and visualization.
 [View Project](https://github.com/RafliRizkya/Analysis-Spotify-Indonesia-Chart-Song-in-2020)
 
-### 7. Game Sales Analysis
+### Game Sales Analysis
 Conducted SQL-based analysis on video game sales data to identify top publishers, platforms, and sales trends, providing insights into industry performance.
 [View Project](https://github.com/RafliRizkya/Game-Sales-SQL-Analysis)
 
