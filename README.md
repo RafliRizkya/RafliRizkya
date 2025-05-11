@@ -43,6 +43,7 @@ This capstone project was completed as part of the Google Advanced Data Analytic
 
 ### Social-Media-Trends-Engagement-Analysis
 This repository contains an exploratory data analysis and machine learning project focused on identifying patterns and key factors that influence **engagement rate** in social media content. The analysis combines clustering, feature importance extraction from supervised models, and actionable insights to improve content strategy.
+[View Project](RafliRizkya/Social-Media-Trends-Engagement-Analysis)
 
 ### Identify the top 5 car brands with the highest sales
 Top 5 Brand Cars Analysis explores data to analyze the performance of the top five car brands based on various metrics. This repository includes data preprocessing, visualization, and insights to understand automotive market trends.
