@@ -35,6 +35,18 @@ Data Analytics enthusiast with experience in transforming raw data into insights
 ![Supervised ML](https://img.shields.io/badge/Supervised_ML-00979D?style=for-the-badge&logo=python&logoColor=white)
 ![Unsupervised ML](https://img.shields.io/badge/Unsupervised_ML-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+## 📚 Certifications
+
+### Google Advanced Data Analytics
+This certification enhances my skills in data analysis, including advanced statistics, regression models, machine learning basics, and business insights.
+
+![Google Advanced Data Analytics](https://github.com/USERNAME/USERNAME/blob/main/Google%20Advanced%20Data%20Analytics.jpg)
+
+### IBM Data Analyst
+Through this certification, I built strong foundations in data wrangling, visualization, Excel, SQL, Python, and dashboard creation.
+
+![IBM Data Analyst](https://github.com/USERNAME/USERNAME/blob/main/IBM%20Data%20Analyst.jpg)
+
 ## 🚀 Featured Projects
 
 ### Google Advanced Data Analytics
