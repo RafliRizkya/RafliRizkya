@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RafliRizkya)
 
 ## 💼 About Me
-Data Analytics enthusiast with experience in transforming raw data into insights. Based in Cimahi, Indonesia, I'm passionate about using data to tell stories and drive decisions.
+Versatile individual with expertise in Exploratory Data Analysis (EDA), data visualization, hypothesis testing, and a foundational understanding of machine learning models. Highly proficient in platforms for effective data analysis, cleaning, and visualization, including spreadsheets, Python, Power BI, Looker Studio, and Tableau. Possesses strong data communication, organizational, and analytical skills
 
 ## 📊 GitHub Stats
 ![Rafli's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafliRizkya&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1800)
