@@ -40,12 +40,12 @@ Data Analytics enthusiast with experience in transforming raw data into insights
 ### Google Advanced Data Analytics
 This certification enhances my skills in data analysis, including advanced statistics, regression models, machine learning basics, and business insights.
 
-![Google Advanced Data Analytics](https://github.com/USERNAME/USERNAME/blob/main/Google%20Advanced%20Data%20Analytics.jpg)
+![Google Advanced Data Analytics](https://raw.githubusercontent.com/raflirzkyaa/raflirzkyaa/main/Google%20Advanced%20Data%20Analytics.jpg)
 
 ### IBM Data Analyst
 Through this certification, I built strong foundations in data wrangling, visualization, Excel, SQL, Python, and dashboard creation.
 
-![IBM Data Analyst](https://github.com/USERNAME/USERNAME/blob/main/IBM%20Data%20Analyst.jpg)
+![IBM Data Analyst](https://raw.githubusercontent.com/raflirzkyaa/raflirzkyaa/main/IBM%20Data%20Analyst.jpg)
 
 ## 🚀 Featured Projects
 
