@@ -49,6 +49,10 @@ Through this certification, I built strong foundations in data wrangling, visual
 
 ## 🚀 Featured Projects
 
+### Customer Segmenting with RFM Model Using K-Means Algorithm
+This project analyzes customer behavior based on an e-commerce transaction dataset and segments customers using the RFM (Recency, Frequency, Monetary) model with K-Means clustering.
+[View Project](https://github.com/RafliRizkya/Clustering-Customers-with-RFM-Model-Using-K-Means-Algorithm)
+
 ### Google Advanced Data Analytics
 This capstone project was completed as part of the Google Advanced Data Analytics course. It focuses on analyzing HR employee data to predict attrition using various supervised machine learning models, helping HR teams make data-driven decisions to improve employee retention and reduce turnover costs.
 [View Project](https://github.com/RafliRizkya/Google-Advanced-Data-Analytics-Capstone-Project)
