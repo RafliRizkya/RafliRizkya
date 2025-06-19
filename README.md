@@ -37,6 +37,11 @@ Versatile individual with expertise in Exploratory Data Analysis (EDA), data vis
 
 ## 📚 Certifications
 
+### Google Business Intelligence
+Through this certification, I gained hands-on, practice-based experience in transforming raw data into actionable insights to support decision-making. I built strong skills in designing data workflows, creating effective data visualizations, and developing dashboards that follow design best practices to meet stakeholder needs.
+
+![Google Business Intelligence](Google%20Business%20Intelligence.jpg)
+
 ### Google Advanced Data Analytics
 This certification enhances my skills in data analysis, including advanced statistics, regression models, machine learning basics, and business insights.
 
@@ -48,6 +53,14 @@ Through this certification, I built strong foundations in data wrangling, visual
 ![IBM Data Analyst](IBM%20Data%20Analyst.jpg)
 
 ## 🚀 Featured Projects
+
+### End to End Business Intelligence From SQL to Strategic Insights
+This project demonstrates an end-to-end business intelligence solution, covering data extraction and transformation using SQL views, customer segmentation with RFM analysis, and K-Means clustering for product inventory and sales performance.
+[View Project](https://github.com/RafliRizkya/End-to-End-Business-Intelligence-From-SQL-to-Strategic-Insights)
+
+### Contoso Sales Dashboard
+An interactive and comprehensive sales dashboard built using the Contoso Sales Dataset provided by Microsoft. The project focuses on strengthening technical skills in data modeling, DAX, and the application of advanced Power BI features to analyze and visualize sales performance effectively.
+[View Project](https://github.com/RafliRizkya/Contoso-Sales-Sample-Data-from-Power-BI-)
 
 ### Customer Segmenting with RFM Model Using K-Means Algorithm
 This project analyzes customer behavior based on an e-commerce transaction dataset and segments customers using the RFM (Recency, Frequency, Monetary) model with K-Means clustering.
