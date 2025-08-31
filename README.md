@@ -54,6 +54,10 @@ Through this certification, I built strong foundations in data wrangling, visual
 
 ## 🚀 Featured Projects
 
+### MariaDB to BigQuery ETL Pipeline with Airflow
+This project is an **ETL pipeline** built with **Apache Airflow** to seamlessly transfer data from **MariaDB** to **Google BigQuery** using Docker-based orchestration. It provides a modular structure with configurable table mappings, custom operators for data ingestion, and secure authentication via Google Cloud service accounts. The workflow automates data extraction from MariaDB, applies optional transformations using SQL or Python, and loads the processed data into BigQuery for analytics. Designed for flexibility and scalability, this setup enables efficient data integration while keeping configurations centralized and deployment simple.
+
+
 ### End to End Business Intelligence From SQL to Strategic Insights
 This project demonstrates an end-to-end business intelligence solution, covering data extraction and transformation using SQL views, customer segmentation with RFM analysis, and K-Means clustering for product inventory and sales performance.
 [View Project](https://github.com/RafliRizkya/End-to-End-Business-Intelligence-From-SQL-to-Strategic-Insights)
